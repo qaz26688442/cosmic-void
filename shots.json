@@ -1,0 +1,6 @@
+[
+  { "name": "1-title.jpg", "query": "?shot=start" },
+  { "name": "2-combat.jpg", "query": "?shot=combat" },
+  { "name": "3-boss.jpg", "query": "?shot=boss" },
+  { "name": "4-gameover.jpg", "query": "?shot=end" }
+]
