@@ -17,13 +17,13 @@ export const COLORS = {
 
 export const PLAYER_CONFIG = {
   radius: 16,
-  speed: 280,
-  turnSpeed: Math.PI * 1.5,
+  speed: 290,
+  turnSpeed: Math.PI * 1.6,
   maxHealth: 100,
   maxShield: 100,
-  shieldRegenRate: 15,
-  shieldRegenDelay: 3.0,
-  fireRate: 0.14,
+  shieldRegenRate: 18,
+  shieldRegenDelay: 2.8,
+  fireRate: 0.13,
 };
 
 export const ENEMY_TYPES = {
